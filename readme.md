@@ -1,3 +1,4 @@
 moi repoz
 qliti
-eto vetka master
+eto vetka pm
+>>>>>>> pm
